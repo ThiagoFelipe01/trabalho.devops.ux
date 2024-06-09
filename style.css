@@ -43,11 +43,12 @@ header .icone {
 
 header .icones {
 	float: right;
-    margin-left: 175%;
+	margin-left: 175%;
 	display: flex;
     align-items: center;
 	cursor: pointer;
 }
+
 
 .search-bar {
     display: flex;
@@ -71,10 +72,11 @@ input[type="text"] {
     height: 24px; 
     width: 24px; 
     margin: 0 4px; 
+	cursor: pointer;
 }
 .mic-icon {
     position: absolute; 
-    right: 105px; 
+    right: 98px; 
     top: 50%; 
     transform: translateY(-50%); 
 }
