@@ -43,7 +43,7 @@ header .icone {
 
 header .icones {
 	float: right;
-	margin-left: 155%;
+	margin-left: 140%;
 	display: flex;
     align-items: center;
 	cursor: pointer;
