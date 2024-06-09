@@ -21,6 +21,15 @@ header img{
 	box-shadow: 0 0 20px #ccc;
 }
 
+.recuperar {
+	text-align: center;
+	width: 600px;
+	padding: 20px;
+	box-sizing: border-box;
+	margin: 60px auto;
+	box-shadow: 0 0 5px #ccc;
+}
+
 img {
     height: 400px;
 }
